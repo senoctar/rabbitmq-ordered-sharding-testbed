@@ -1,0 +1,1 @@
+# rabbitmq-ordered-sharding-testbed
