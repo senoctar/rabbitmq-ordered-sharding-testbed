@@ -2,7 +2,6 @@ Managing apps. Current count: 0, target count: 3
 Starting application instance 001
 Starting application instance 002
 Starting application instance 003
-{u'id': 1, u'title': u'Post 1'}
 Sent 1000 total messages
 Sent 2000 total messages
 Received 949 total messages
